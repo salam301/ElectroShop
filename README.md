@@ -90,7 +90,7 @@ The website is designed to work on desktop and mobile screens using CSS media qu
 
 ## 👨‍💻 Author
 
-**Sauban Kadiwal**
+**Salam Moriya**
 
 ## 📜 License
 
